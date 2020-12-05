@@ -1,0 +1,10 @@
+11/14/2020-5:37 PM:The Camera with serial number CA0F003AD08C is not connected.SanDisk Cruzer Blade is connected.
+11/14/2020-5:38 PM:The Camera with serial number CA0F003AD08C is not connected. SanDisk Cruzer Blade is connected.
+11/14/2020-5:39 PM:The Camera with serial number CA0F003AD08C is not connected. SanDisk Cruzer Blade(4C530001160721109583) is connected.
+11/14/2020-5:39 PM:The Camera with serial number CA0F003AD08C is not connected. SanDisk Cruzer Blade (4C530001160721109583) is connected.
+11/14/2020-5:40 PM:The Camera with serial number CA0F003AD08C is not connected. SanDisk Cruzer Blade (4C530001160721109583) is connected.
+11/14/2020-5:40 PM:The Camera with serial number CA0F003AD08C is not connected. SanDisk Cruzer Blade (4C530001160721109583) is connected.
+11/25/2020-5:59 AM:The Camera with serial number CA0F003AD08C is not connected. Kingston DT 101 II (0019E06B58C1F98042CF08F5) is connected.
+11/30/2020-11:16 PM:The Camera with serial number CA0F003AD08C is not connected. SABRENT  (DB9876543214E) is connected.
+12/2/2020-7:37 AM:The Camera with serial number CA0F003AD08C is not connected. USB2.0 Flash Disk (10120407005854FKNW7Q) is connected.
+12/2/2020-7:40 AM:The Camera with serial number CA0F003AD08C is not connected. USB2.0 Flash Disk (10120407005854FKNW7Q) is connected.
