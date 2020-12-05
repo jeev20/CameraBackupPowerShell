@@ -70,20 +70,27 @@ Step 5. Run the CameraBackup.ps1 script using
 ![CreateTask](https://github.com/jeev20/CameraBackupPowerShell/blob/main/Images/CreateTask.PNG)
 
 2. Enter the name of the task and click ok
+
 ![GiveaName](https://github.com/jeev20/CameraBackupPowerShell/blob/main/Images/NameandClickOK.PNG)
+
 3. Go to the triggers section and add a new trigger based on an windows event
+
 ![SetTrigger](https://github.com/jeev20/CameraBackupPowerShell/blob/main/Images/SetTrigger.PNG)
+
 4. Go to the actions tab and a new action
 Select ```Start a Program```
 
 5. In Program / script enter field add ``` "C:\Windows\System32\WindowsPowerShell\v1.0\PowerShell.exe" ```
 
 6. In Add argument field add (remember to have double quotes) ``` "The full path of the CameraBackup.ps1 script" ```
+
 ![CreateAction](https://github.com/jeev20/CameraBackupPowerShell/blob/main/Images/SetAction.PNG)
 
 7. Finally, your task will look something like this: 
+
 ![CreatedTask](https://github.com/jeev20/CameraBackupPowerShell/blob/main/Images/TaskCreated.PNG)
-So now it is time to test this. Connect the camera to the PC via the USB connection and just wait! All the image files should be organized neatly in the destination folder you provided.
+
+So now it is time to test this. Connect the camera to the PC via the USB connection and just wait! All the image files should be organized neatly in the destination folder you provided. 
 
 
 ## Contributors
