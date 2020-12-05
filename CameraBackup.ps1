@@ -1,5 +1,5 @@
 ﻿# Global Variables which need to be declared
-$CameraSerialNumber = 'CA0F003AD08C'
+$CameraSerialNumber = 'CA0DSAS003AD08C'
 $PhotosFolder = 'H:\PhotosBackup\SonyA5100\'
 
 # Log file location
